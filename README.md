@@ -5,7 +5,7 @@
 - https://zealous-sand-0a8573210.1.azurestaticapps.net
 
 ## Future Ready Talent (FRT)-2022
-## Project published by Ishabh Thakur under FRT-Virtual Internship Program'2022.
+## Project published by Ishabh Kumar Thakur under FRT-Virtual Internship Program'2022.
 
 Here i created a Health Care web app named Med-Expert that helps the patients to find Nearby Legit Health Support Service   to Get support with Quallified Doctors,Surgeons,Clinics, Medical shop and avail Medicine. We also use google maps in our website for better support. **WITHOUT PHYSICAL CONTACT**
 
