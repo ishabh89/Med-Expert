@@ -36,28 +36,25 @@ Here,I can Monitor the number of devices in which user are using the Website I c
 
 
 ## Home page
-![01](https://user-images.githubusercontent.com/82073000/171235152-787f4543-0bfd-4bef-9d7d-827248390cca.png)
+![HOME](https://user-images.githubusercontent.com/75448342/185061980-f8470cfe-75d3-40f8-aafd-19eb2fbeea7a.jpg)
+
 
 
 ## About
 
-![02](https://user-images.githubusercontent.com/82073000/171235242-5a23bb36-930b-47e3-943e-45bde73c8076.png)
+![ABOUT](https://user-images.githubusercontent.com/75448342/185062055-eff8acad-ee66-4d3a-9def-2edb32b6fdf5.jpg)
+
 
 
 ## Service
-![0](https://user-images.githubusercontent.com/82073000/171235473-549117c5-d295-4622-9d73-943250273357.png)
+![SERVICES](https://user-images.githubusercontent.com/75448342/185062099-53985b02-9aee-4e76-a096-e18d82320474.jpg)
 
-## Tariffs
-![04](https://user-images.githubusercontent.com/82073000/171235585-62d7cb82-0efc-4cc7-9c6e-af0d05e2f31d.png)
 
 ## Contact
-![05](https://user-images.githubusercontent.com/82073000/171235742-30469131-4451-4ae5-906a-57c0623dc93b.png)
+![CONTACT](https://user-images.githubusercontent.com/75448342/185062147-c9925b9b-ec88-4a7b-bcfa-386fd307ae95.jpg)
 
 
 
-## App Download
-
-![06](https://user-images.githubusercontent.com/82073000/171235825-9ad97daa-842d-4ed5-ad46-e94667d79f91.png)
 
 
 # Azure portal screen-shots
@@ -74,5 +71,6 @@ Here,I can Monitor the number of devices in which user are using the Website I c
 
 
 ## Azure Code snippet for using Azure Application insights
-![Screenshot 2022-06-02 004230](https://user-images.githubusercontent.com/82073000/171484204-e85fab8e-f3e1-484b-9672-faf3b4fb5152.png)
+![Screenshot 2022-08-15 012546](https://user-images.githubusercontent.com/75448342/185062527-c1a46888-b4c0-4154-892a-58a84d5411de.jpg)
+
 
