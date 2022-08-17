@@ -5,26 +5,26 @@
 ## Future Ready Talent (FRT)-2022
 ## Project published by Ishabh Thakur under FRT-Virtual Internship Program'2022.
 
-Here i created a Taxi Booking web app named QuickTaxi that helps the customer to find Nearby transport Service at low cost  to book a car online with  best offers!
+Here i created a Health Care web app named Med-Expert that helps the patients to find Nearby Legit Health Support Service   to Get support with Quallified Doctors,Surgeons,Clinics, Medical shop and avail Medicine. We also use google maps in our website for better support. **WITHOUT PHYSICAL CONTACT**
 
 ## Youtube video For my project Demonstration.
 - https://youtu.be/VJ8CNDSj9Kg
 
 ## Project Description
 
-Using this Website Application, it is very easy for customer to book a car online and cab-booking agency can also track their booking online. 
-So, it is also very useful for car booking agency.
- Taxi Booking Software is a webbased platform that allows your customers to book their taxi's and 
-executive taxi's (such asLimousines) all online from the comfort of their own home or office.
+Using this Website Application, it is very easy for customer to appoint a Health care support online and Emergency Services  can also track information about the Patients. 
+So, it is also very helpful for Central use of Health Care Support.
+ Healthcare Support Software is a webbased platform that allows your patients to take help from Doctor's and 
+Consultants (such as Heltharch India) all online from the comfort of their own home or office.
 
-In a nutshell our Taxi Booking Software should be able to:
-- Provide the functionality to make your own bookings
-- Give your customers the facility to make payments and deposits online with their credit / debit card.
+In a nutshell our Health Care Support Software should be able to:
+- Provide the functionality to make your own Appointments With Multiple doctors.
+- Give your patients the facility to make payments and deposits online with their credit / debit card.
 - Generate Invoices
-- Provide the customer with taxi availability
-- Track your customers.
-- Engage your customers through interaction such as feedback forms
-- 
+- Provide the patients with Hospital availability in their region
+- Track your Appointment Details and Emergencies services can track You For better services.
+- Engage your patients through interaction such as feedback forms
+
 ## Azure services,
 I basically uses two Azure cloud computing Services.
 
