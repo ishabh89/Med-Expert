@@ -39,7 +39,9 @@ Here,I can Monitor the number of devices in which user are using the Website I c
 
 
 ## Home page
-![HOME](https://user-images.githubusercontent.com/75448342/185061980-f8470cfe-75d3-40f8-aafd-19eb2fbeea7a.jpg)
+![HOME-1](https://user-images.githubusercontent.com/75448342/185423706-35e018fb-8232-4b0b-887a-bdc801cc84fc.jpg)
+![HOME-2](https://user-images.githubusercontent.com/75448342/185423712-d50be8ae-85e2-497c-afad-520c0bb25686.jpg)
+
 
 
 
