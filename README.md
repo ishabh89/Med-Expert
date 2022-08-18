@@ -23,7 +23,7 @@ In a nutshell our Health Care Support Software should be able to:
 - Provide the functionality to make your own Appointments With Multiple doctors.
 - Give your patients the facility to make payments and deposits online with their credit / debit card.
 - Generate Invoices
-- Published the articles about Health Disease's & Symptons.
+- Regularly Publishes **Articles** about Health Disease's & Symptons.
 - Provide the patients with Hospital availability in their region
 - Track your Appointment Details and Emergencies services can track You For better services.
 - Engage our patients through interaction such as **feedback forms**
