@@ -4,7 +4,7 @@
 ## This my Azure Hosted website Link
 - https://zealous-sand-0a8573210.1.azurestaticapps.net
 
-[I updated the Content Kindly Check Website ]
+🔴 I updated the content of Website Kindly Visit The website. 🔴
 
 ## Future Ready Talent (FRT)-2022
 ## Project published by Ishabh Kumar Thakur under FRT-Virtual Internship Program'2022.
