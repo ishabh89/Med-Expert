@@ -49,16 +49,18 @@ Here,I can Monitor the number of devices in which user are using the Website I c
 
 ## About
 
-![ABOUT](https://user-images.githubusercontent.com/75448342/185062055-eff8acad-ee66-4d3a-9def-2edb32b6fdf5.jpg)
+![ABOUT](https://user-images.githubusercontent.com/75448342/185432952-14d78a00-74c0-422d-a5cc-3eeef1540dcb.jpg)
+
 
 
 
 ## Service
-![SERVICES](https://user-images.githubusercontent.com/75448342/185062099-53985b02-9aee-4e76-a096-e18d82320474.jpg)
+![SERVICES](https://user-images.githubusercontent.com/75448342/185432972-09afd5bf-e98d-4a98-8fa3-a2e3ca225f65.jpg)
 
 
 ## Contact
-![CONTACT](https://user-images.githubusercontent.com/75448342/185062147-c9925b9b-ec88-4a7b-bcfa-386fd307ae95.jpg)
+![CONTACT](https://user-images.githubusercontent.com/75448342/185432996-eb83c7a9-dbd9-49d8-8522-fd6fc74bc6d7.jpg)
+
 
 
 
