@@ -31,7 +31,7 @@ In a nutshell our Health Care Support Software should be able to:
 ## Azure services,
 I basically uses two Azure cloud computing Services.
 
-First,Static web app Service to host the website in Azure. It is a serverless hosting.So, in Azure I can see the metrics(graphs) of Hit ratio of a website with respect to time in an Azure interface. 
+First,Static web app Service to host the website in Azure. It is a serverless hosting.So, in Azure I can Monitor the metrics(graphs) of Hit ratio of a website with respect to time in an Azure interface. 
 
 Second, i used Application  Insight service to generate insight from the website.
 I used INSTRUMENTATION STRING in my script page.For connecting the Azure Application insight service to my website. I also run Dummy Query to generate the data metric.
